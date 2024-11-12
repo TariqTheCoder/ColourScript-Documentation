@@ -1,17 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to the ColourScript Module Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ColourScript**  is a Python module for manipulation of strings in Python.
+It alters strings, allows text appended into console, and other benefits, with a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. Version 0.0.5 is the latest version at the time of this documentation.
 
 Contents
 --------
