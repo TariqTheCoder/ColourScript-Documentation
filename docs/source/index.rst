@@ -17,5 +17,7 @@ Contents
 
 .. toctree::
 
+   Installation
+   General Use
    Functions
    Data
