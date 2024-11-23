@@ -22,6 +22,7 @@ if it does not display an error, Python is installed. You can install python at 
 Test out ColourScript with this code:
 
 ..code-block:: python
+
    import ColourScript.functions as cs
    cs.text.red("Hello World")
 
